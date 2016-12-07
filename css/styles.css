@@ -1,0 +1,15 @@
+body
+{
+    width: 337.5px;
+    height: 600px;
+}
+
+
+
+#button
+{
+    width: 100px;
+    height: 20px;
+    background-color: #ededed;
+    color: #0000BB;
+}

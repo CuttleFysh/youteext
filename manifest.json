@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "youtubetop",
+  "version": "1.0",
+
+  "description": "This extension will show the topyoutubeedescr",
+
+  "author": "CuttleFysh",
+
+  "browser_action": {
+    "default_icon": "img/icon.png",
+    "default_popup": "popup.html"
+  },
+
+  "permissions": [
+    "https://ajax.googleapis.com/*"
+  ]
+}
